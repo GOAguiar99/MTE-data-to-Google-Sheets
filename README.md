@@ -80,7 +80,7 @@ Overall, the MTE website is a crucial resource for workers, employers, and anyon
 * wsproto==1.1.0
 
 ### Installation
-
+0. For using GeckoDriver you need firefox installed in your computer!
 1. Clone this repository
 2. Create a virtual environment using 'python -m venv venv'
 3. Activate your venv using 'venv\Scripts\activate'
