@@ -13,7 +13,7 @@ from googleapiclient.errors import HttpError
 
 # If modifying these scopes, delete the file token.json.
 SCOPES = ['https://www.googleapis.com/auth/spreadsheets']
-
+spreadsheetId='123445645523423'
 def Atualiza_CCTS():
     creds = None
 
@@ -34,7 +34,6 @@ def Atualiza_CCTS():
     service = build('sheets', 'v4', credentials=creds)
     # Call the Sheets API
     sheet = service.spreadsheets()
-    spreadsheetId='12CTzS7MWK_f18TPDf7mi1q7xAV_IJbdf1AH8oVjxTvI'
     cnpj = sheet.values().get(spreadsheetId  ,
                                 range='CCTs!F3:F100').execute()
     cnpjj = cnpj.get('values', [])

@@ -86,6 +86,7 @@ Overall, the MTE website is a crucial resource for workers, employers, and anyon
 3. Activate your venv using `venv\Scripts\activate`
 4. Run `pip install -r requirements.txt`
 5. Download your client_secret.json and token.json to use google api and put in the same folder (https://developers.google.com/drive/api/quickstart/python?hl=pt-br)
+6. Change `spreadsheetId='123445645523423'` to your spreadsheetId
 6. Run `python main.py`
 
 
