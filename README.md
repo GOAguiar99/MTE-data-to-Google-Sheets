@@ -38,50 +38,46 @@ Overall, the MTE website is a crucial resource for workers, employers, and anyon
 
 ## Dependencies
 
-altgraph==0.17.2
-async-generator==1.10
-attrs==21.4.0
-cachetools==5.0.0
-certifi==2021.10.8
-cffi==1.15.0
-charset-normalizer==2.0.12
-cryptography==36.0.2
-future==0.18.2
-google-api-core==2.7.1
-google-api-python-client==2.42.0
-google-auth==2.6.2
-google-auth-httplib2==0.1.0
-google-auth-oauthlib==0.5.1
-googleapis-common-protos==1.56.0
-h11==0.13.0
-httplib2==0.20.4
-idna==3.3
-oauthlib==3.2.0
-outcome==1.1.0
-pefile==2022.5.30
-protobuf==3.19.4
-pyasn1==0.4.8
-pyasn1-modules==0.2.8
-pycparser==2.21
-pygsheets==2.0.5
-pyinstaller==5.2
-pyinstaller-hooks-contrib==2022.3
-pyOpenSSL==22.0.0
-pyparsing==3.0.7
-PySocks==1.7.1
-pywin32-ctypes==0.2.0
-requests==2.27.1
-requests-oauthlib==1.3.1
-rsa==4.8
-selenium==4.1.3
-six==1.16.0
-sniffio==1.2.0
-sortedcontainers==2.4.0
-trio==0.20.0
-trio-websocket==0.9.2
-uritemplate==4.1.1
-urllib3==1.26.9
-wsproto==1.1.0
+*altgraph==0.17.2
+*async-generator==1.10
+*attrs==21.4.0
+*cachetools==5.0.0
+*certifi==2021.10.8
+*cffi==1.15.0
+*charset-normalizer==2.0.12
+*cryptography==36.0.2
+*future==0.18.2
+*google-api-core==2.7.1
+*google-api-python-client==2.42.0
+*google-auth==2.6.2
+*googleapis-common-protos==1.56.0
+*httplib2==0.20.4
+*idna==3.3
+*oauthlib==3.2.0
+*outcome==1.1.0
+*pefile==2022.5.30
+*protobuf==3.19.4
+*pyasn1==0.4.8
+*pyasn1-modules==0.2.8
+*pycparser==2.21
+*pygsheets==2.0.5
+*pyinstaller==5.2
+*pyinstaller-hooks-contrib==2022.3
+*pyOpenSSL==22.0.0
+*pyparsing==3.0.7
+*PySocks==1.7.1
+*pywin32-ctypes==0.2.0
+*requests==2.27.1
+*requests-oauthlib==1.3.1
+*rsa==4.8
+*selenium==4.1.3
+*sniffio==1.2.0
+*sortedcontainers==2.4.0
+*trio==0.20.0
+*trio-websocket==0.9.2
+*uritemplate==4.1.1
+*urllib3==1.26.9
+*wsproto==1.1.0
 
 ### Installation on Windows
 
@@ -92,4 +88,3 @@ wsproto==1.1.0
 ### Building the Documentation
 
 ## License
-
