@@ -13,7 +13,7 @@
         <img alt="GitHub commits since latest release (by date)" src="https://img.shields.io/github/commits-since/GOAguiar99/MTE-data-to-Google-Sheets/latest?style=for-the-badge">
     </a>
     <a href="https://github.com/GOAguiar99/MTE-data-to-Google-Sheets/blob/master/LICENSE">
-        <img src="https://img.shields.io/badge/license-GPL3-yellow?style=for-the-badge">
+        <img src="https://img.shields.io/badge/license-MIT-yellow?style=for-the-badge">
     </a>
 </p>
 
