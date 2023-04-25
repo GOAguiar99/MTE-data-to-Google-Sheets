@@ -31,7 +31,7 @@ The MTE website is the online platform for Brazil's Ministry of Labor and Employ
 
 One important feature of the MTE website is the CAGED (Cadastro Geral de Empregados e Desempregados) system, which is used to collect data on employment and unemployment in Brazil. Employers are required to report hiring, firing, and other employment changes through the CAGED system on a monthly basis.
 
-The CCTS (Cadastro de Conformidade de Trabalho Seguro) is another system available on the MTE website. It is used to assess and certify the compliance of companies with Brazilian labor laws related to health and safety in the workplace.
+CCTS (Convenção coletiva de trabalho) or Collective Bargaining Agreement is a negotiated agreement between a labor union and an employer or group of employers that establishes the terms and conditions of employment, wages, benefits, and other related issues. The CBA is binding for all workers covered by the agreement.
 
 Overall, the MTE website is a crucial resource for workers, employers, and anyone interested in labor regulations and job market information in Brazil.
 
